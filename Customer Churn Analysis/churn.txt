@@ -1,0 +1,59 @@
+What is “Customer Churn”?
+
+Customer churn means:
+
+Customers leaving a company, canceling a subscription, stopping purchases, or becoming inactive.
+
+Example:
+
+Netflix user cancels subscription
+Bank customer closes account
+Telecom customer switches network
+SaaS user stops renewing plan
+E-commerce customer never buys again
+
+That is called churn.
+
+
+
+
+
+Simple Formula
+
+Churn Rate=
+Customers Lost/Total Customers×100
+
+Example
+
+Suppose:
+
+Company has 1000 customers
+150 customers leave
+
+Then:
+
+Churn Rate=
+150/1000×100=15%
+
+
+
+
+TYPES OF CHURN
+1. Voluntary Churn
+
+Customer leaves intentionally.
+
+Example:
+
+expensive pricing
+bad experience
+better competitor
+2. Involuntary Churn
+
+Customer leaves unintentionally.
+
+Example:
+
+payment failure
+expired card
+technical issue
